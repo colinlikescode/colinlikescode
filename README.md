@@ -1,16 +1,14 @@
-## Hi there 👋
+# Public Portfolio
 
-<!--
-**colinlikescode/colinlikescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!  
+This repo is a very new github account for purely for showcasing some of my work. My main GitHub (private) holds the bulk of my commits and projects.  
+If you want more details or a deeper commit history, just ask.  
 
-Here are some ideas to get you started:
+## Projects
+1. **Sample Project 1**  
+   A brief overview of what it does.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **Sample Project 2**  
+   Another quick description.  
+
+Feel free to explore and contact me for more info!
