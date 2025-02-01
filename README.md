@@ -1,4 +1,4 @@
-# Colin's Public Portfolio
+# Colin's Portfolio
 
 Welcome!  
 <br>
