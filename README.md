@@ -11,4 +11,4 @@ If you want more details on my work, please just ask
 
 2. **Humanity's Last Exam Solver**
 
-3. **On-Device Language Model for Singaporean Senior Citizen Population**
+3. **On-Device Language Model to help the Singaporean Senior Citizen Population**
