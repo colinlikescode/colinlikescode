@@ -1,6 +1,6 @@
 # Colin's Portfolio
 
-Welcome!  
+Welcome Friends!  
 <br>
 This is my github account for purely showcasing some of my favorite work. 
 
