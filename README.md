@@ -1,3 +1,3 @@
 # Colin's Portfolio
 
-Welcome!  
+Welcome Friends!  
