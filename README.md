@@ -1,5 +1,5 @@
 # Colin's Portfolio
 
-Welcome Friends!  
+Welcome Friends!
 
-I currently run https://www.openresearchfund.com/ (outside of my day job)
+I currently run [Open Research Fund](https://www.openresearchfund.com/) (outside of my day job).
